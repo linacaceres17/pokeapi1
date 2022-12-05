@@ -9,7 +9,7 @@ import { SharedModule } from "../shared/shared.module";
 //Pages
 import { HomeComponent } from './home/home.component';
 import { DetailsComponent } from './details/details.component';
-import { SharedModule_1 as SharedModule } from "../shared/shared.module";
+
 
 
 @NgModule({
@@ -21,7 +21,7 @@ import { SharedModule_1 as SharedModule } from "../shared/shared.module";
         CommonModule,
         RoutingModule,
         SharedModule,
-        SharedModule_1
+        SharedModule,
     ]
 })
 export class PagesModule { }
