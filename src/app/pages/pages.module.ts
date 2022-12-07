@@ -20,8 +20,7 @@ import { DetailsComponent } from './details/details.component';
     imports: [
         CommonModule,
         RoutingModule,
-        SharedModule,
-        SharedModule,
+        SharedModule
     ]
 })
 export class PagesModule { }
