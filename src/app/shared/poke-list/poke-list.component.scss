@@ -16,7 +16,7 @@ $padding: rem-calc(20);
         height: rem-cal(200);
         margin-bottom: rem-calc(10);
         padding: $padding;
-        background: #A95DA0;
+        background: #9b5392;
         border-radius: rem-calc(10);
         text-decoration: none;
         color: var(--primaycolor);
@@ -33,7 +33,7 @@ $padding: rem-calc(20);
             flex-direction: column;
 
          li{
-            background: var(--white);
+            background: #fff;
             font-size: rem-calc(10);
             
             display: flex;

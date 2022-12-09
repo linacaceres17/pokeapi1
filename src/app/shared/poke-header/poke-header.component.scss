@@ -2,9 +2,17 @@
 :host{
     header{
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
+        
 
         padding: rem-calc(40) 0 ;
+
+       
+        }
+       
+    }   
+    .myteam{
+        display: flex;
+        justify-content: center;
     }
-}
